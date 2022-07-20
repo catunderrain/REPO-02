@@ -2,3 +2,13 @@
     Creative Commons
     https://creativecommons.org/use-remix/
 }
+{
+    Paperswithcode
+    https://paperswithcode.com/
+}
+{
+    https://tom.preston-werner.com/
+}
+{
+    https://keepachangelog.com/en/1.1.0/
+}
