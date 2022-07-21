@@ -1,20 +1,32 @@
 AI Expert in 2022
 {
+
     Fundamentals
-    {   
+    {
+
         .Basics
         Matrices & Linear Algebra Fundamentals [learn_again]
         Database Basics
         {
+
             Relational vs. non-relational databases
             {
-                normalize: chuan hoa    
-                consistency: nhat quan
-                transaction: giao dich
-                
+
+                normalize: chuẩn hóa
+                consistency: nhất quán
+                transaction: giao dịch
+                considerable: đáng kể
+                integrity: bảo toàn
+                built-in: có sẵn
+                indexing: chỉ mục
+                constraint: ràng buộc
+                domain: miền
+
+
             }
             SQL + Joins (Inner, Outer, Cross, Theta Join)
             NoSQL
+
         }
         Tabular Data
         Data Frame & Series
@@ -25,12 +37,13 @@ AI Expert in 2022
             Json
             XML
             CSV
+
         }
         Regular Expressions (RegEx)
     }
     Data Scientist
     {
-        
+
     }
     Machine Learning
     {
@@ -40,4 +53,5 @@ AI Expert in 2022
     {
 
     }
-}ss
+
+}
