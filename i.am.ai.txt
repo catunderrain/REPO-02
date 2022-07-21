@@ -8,6 +8,9 @@ AI Expert in 2022
         {
             Relational vs. non-relational databases
             {
+                normalize: chuan hoa    
+                consistency: nhat quan
+                transaction: giao dich
                 
             }
             SQL + Joins (Inner, Outer, Cross, Theta Join)
@@ -37,4 +40,4 @@ AI Expert in 2022
     {
 
     }
-}
+}ss
